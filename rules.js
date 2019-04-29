@@ -25,7 +25,7 @@ module.exports = {
   "getter-return": 2,
   "yield-star-spacing": [2, { "before": true, "after": false }],
   "guard-for-in": 0,
-  "indent": [1, 2, { "SwitchCase": 1 }],
+  "indent": [1, "tab", { "SwitchCase": 1 }],
   "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
   "linebreak-style": 0,
   "lines-around-comment": 0,

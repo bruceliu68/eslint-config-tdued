@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tdued",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ESLint Config for Td UED team.",
   "main": "index.js",
   "scripts": {
