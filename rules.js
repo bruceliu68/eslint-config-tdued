@@ -151,5 +151,6 @@ module.exports = {
   "vars-on-top": 0,
   "wrap-iife": [2, "any"],
   "wrap-regex": 0,
-  "yoda": [2, "never"]
+  "yoda": [2, "never"],
+  "react/jsx-uses-vars": 2
 };
