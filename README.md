@@ -1,6 +1,6 @@
 # eslint-config-tdued
 
-同盾科技私有云部-eslint规范
+私有云-eslint规范
 
 ## Usage
 
