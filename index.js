@@ -174,7 +174,14 @@ module.exports = {
     "sort-vars": 0,
     "keyword-spacing": 2,
     "space-before-blocks": [2, "always"],
-    "space-before-function-paren": [2, "never"],
+    "space-before-function-paren": [
+      "error",
+      {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+      }
+    ],
     "space-in-parens": [2, "never"],
     "space-infix-ops": 2,
     "space-unary-ops": [2, { "words": true, "nonwords": false }],
